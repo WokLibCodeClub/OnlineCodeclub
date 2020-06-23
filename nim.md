@@ -20,7 +20,7 @@ Second session, 6 Jun 2020:
 
 
 Third session, 20 Jun 2020:
-[]()
+[https://youtu.be/YYGftxK-Vz8](https://youtu.be/YYGftxK-Vz8)
 
 
 Fourth and final session, 4 July 2020:
