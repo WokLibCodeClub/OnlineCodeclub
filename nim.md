@@ -28,7 +28,7 @@ Fourth and final session, 4 July 2020:
 
 #### Other links of interest
 
-Wikipedia page about the history and varieties of the game Nim
+Wikipedia page about the history and varieties of the game Nim:
 [https://en.wikipedia.org/wiki/Nim](https://en.wikipedia.org/wiki/Nim)
 
 
