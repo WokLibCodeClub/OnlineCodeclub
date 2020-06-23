@@ -24,7 +24,7 @@ Fourth and final session, 16 May 2020:
 #### Links to other videos of interest
 
 Short clip of the game when the first part of the code is written
-[https://www.youtu.be/qSsZlq7jFWs](https://www.youtu.be/qSsZlq7jFWs)
+[https://youtu.be/qSsZlq7jFWs](https://youtu.be/qSsZlq7jFWs)
 
 
 Short clip of the final game
