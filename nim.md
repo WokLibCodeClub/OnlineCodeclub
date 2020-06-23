@@ -25,3 +25,7 @@ Fourth and final session, 4 July 2020:
 
 Wikipedia page about the history and varieties of the game Nim
 [https://en.wikipedia.org/wiki/Nim](https://en.wikipedia.org/wiki/Nim)
+
+
+[Back to index](README.md)
+
