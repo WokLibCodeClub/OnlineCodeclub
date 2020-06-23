@@ -4,6 +4,11 @@ Here is the link to the trinket starter project for this game. To follow the vid
 
 [https://trinket.io/library/trinkets/c05495155f](https://trinket.io/library/trinkets/c05495155f)
 
+Since this project makes a lot of use of Python lists there is also a starter trinket project for experimenting with lists and the link is
+
+[https://trinket.io/python/33bf438adb](https://trinket.io/python/33bf438adb)
+
+
 #### Links to videos of the online sessions:
 
 First session, 16 May 2020:
