@@ -6,24 +6,30 @@ Here is the link to the Scratch starter project for this game. To follow the vid
 
 #### Links to videos of the online sessions:
 
-First session, 18 April 2020:
+First session, 4 April 2020:
+[https://youtu.be/79-xXW5RLz8](https://youtu.be/79-xXW5RLz8)
+
+
+Second session, 18 April 2020:
 [https://youtu.be/Vxkp0YNlmxY](https://youtu.be/Vxkp0YNlmxY)
 
 
-Second session, 02 May 2020:
+Third session, 02 May 2020:
 [https://youtu.be/J65dP3JW1cY](https://youtu.be/J65dP3JW1cY)
 
 
-Third and final session, 18 April 2020:
-[16 May 2020](16 May 2020)
+Fourth and final session, 16 May 2020:
+[https://youtu.be/Kj4kSj4ewig](https://youtu.be/Kj4kSj4ewig)
 
 #### Links to other videos of interest
 
 Short clip of the game when the first part of the code is written
 [https://www.youtu.be/qSsZlq7jFWs](https://www.youtu.be/qSsZlq7jFWs)
 
+
 Short clip of the final game
 [https://youtu.be/zJzh5fpRHt0](https://youtu.be/zJzh5fpRHt0)
+
 
 Video of a 1976 Atari Breakout machine
 [https://youtu.be/tlKy9UhZKzk](https://youtu.be/tlKy9UhZKzk)
