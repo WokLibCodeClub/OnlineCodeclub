@@ -16,12 +16,12 @@ The classic 1970s arcade game in a simplified version for Scratch.
 
 ### [Turtle-it for Python](turtleit.md)
 
-This is a game for squashing turtles (not real turtles!!!). It uses a lot of functions and the Python turtle ```onclick()``` function.
+This is a game for squashing turtles (not real turtles!!!). It involves writing a lot of functions, and uses the Python turtle ```onclick()``` function to get a turtle to respond when it's clicked.
 
 
 ### [Nim for Python](nim.md)
 
-This is a game of picking up matches from a pile between two players. The object is to get your opponent to take the last match. The matches are all Python turtles. The project uses some of the clever things you can do with lists in Python.
+This is a game of picking up matches from a pile, played by two players. The object is to get your opponent to take the last match. The matches are all Python turtles. The project uses some of the clever things you can do with lists in Python.
 
 
 ### [Phrasebook for Scratch](phrasebook.md)
