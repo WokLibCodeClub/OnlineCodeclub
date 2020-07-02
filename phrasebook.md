@@ -13,14 +13,14 @@ Here is a link to a demonstration of how the project runs:
 
 #### Links to summaries of the online sessions:
 
-First session, 4 April 2020 (pdf document):
+First session, 6 June 2020 (pdf document):
 [phrasebook_summary_20200606.pdf](phrasebook_summary_20200606.pdf)
 
 You can click on this link to go to a page where you can see the document. But if you want to download it, then right-click on the link and choose "Save link as..." (your browser might use different words) then choose where to save the file on your computer.
 
 
-Second session, 20 June 2020:
-[]()
+Video summary of first and second sessions, 6 and 20 June 2020:
+[https://youtu.be/-dDZLPFpzyI](https://youtu.be/-dDZLPFpzyI)
 
 
 
