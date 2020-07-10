@@ -24,7 +24,7 @@ Third session, 20 Jun 2020:
 
 
 Fourth and final session, 4 July 2020:
-[]()
+[https://youtu.be/6CYFRwKiRSg](https://youtu.be/6CYFRwKiRSg)
 
 #### Other links of interest
 
