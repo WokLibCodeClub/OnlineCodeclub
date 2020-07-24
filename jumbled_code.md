@@ -12,7 +12,7 @@ Here is the link to the Trinket project with the jumbled code:
 
 Here is a link to a video which takes you through the unjumbling in stages, with lots of places to stop the video and see if you can work out the next step by yourself.
 
-[https://youtu.be/s7LUSbMjfRI](https://youtu.be/s7LUSbMjfRI)
+[https://youtu.be/lo5ZH3KkNMU](https://youtu.be/lo5ZH3KkNMU)
 
 
 Good luck!
