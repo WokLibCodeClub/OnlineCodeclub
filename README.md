@@ -29,4 +29,9 @@ This is a game of picking up matches from a pile, played by two players. The obj
 This is a Scratch project using the Translation and Text-to-Speech extensions of Scratch. It allows you translate phrases into many languages and hear what the translations sound like.
 
 
+### [Unjumble the Python code!](jumbled_code.md)
+
+Somehow the code for our simple Python drawing programme has become jumbled up. Can you use your knowledge of Python to sort it into the right order and make the code run?
+
+
 
