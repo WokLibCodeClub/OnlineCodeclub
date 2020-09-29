@@ -13,7 +13,7 @@ This session covered some of the ideas of CSS - cascading style sheet, which is 
 [https://trinket.io/html/ca53d1609c](https://trinket.io/html/ca53d1609c)
 
 Third session, 18 July 2020:
-This session covered the <div> and <span> elements used to group other elements of a webpage together (first trinket link.) Then we showed how to create a Navigation menu in a website (second trinket link).
+This session covered the \<div> and \<span> elements used to group other elements of a webpage together (first trinket link.) Then we showed how to create a Navigation menu in a website (second trinket link).
 trinket links:
 [https://trinket.io/html/ca53d1609c](https://trinket.io/html/ca53d1609c)
 [https://trinket.io/html/1f81179cbd](https://trinket.io/html/1f81179cbd)
