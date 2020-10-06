@@ -13,8 +13,8 @@ Video of first session, 5 Sep 2020:
 pdf summary of second session, 19 Sep 2020:
 [20200915 Python from the Beginning Session 2.pdf](https://drive.google.com/file/d/1GT0FhztkJ8XZAcjLZJI_VyWf-Y462OUW/view?usp=sharing)
 
-Third session, 3 Oct 2020:
-[]()
+Third session, 3 Oct 2020: [https://youtu.be/l54ZAg9-ygk](https://youtu.be/l54ZAg9-ygk)
+
 
 
 [Back to index](README.md)
