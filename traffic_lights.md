@@ -18,8 +18,7 @@ Video summary of first session, 7 November 2020:
 
 pdf document with summary of code for first session:
 
-[Traffic Light Code #1](./CodeClub_Scratch_Traffic_Light_Code_#1.pdf)
-
+[Traffic Light Code #1](CodeClub_Scratch_Traffic_Light_Code_#1.pdf)
 
 
 [Back to index](README.md)
