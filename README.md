@@ -1,6 +1,6 @@
 # OnlineCodeclub
 
-### Video summaries of Code Club sessions held online during Coronavirus lockdown
+### Video summaries of Code Club sessions held online during Coronavirus restrictions
 
 These are the projects we have developed in our online sessions. Click the links to get details of all the summary videos or supporting documents:
 
