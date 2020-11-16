@@ -47,3 +47,13 @@ This is a Scratch drawing programme which draws exciting and colourful patterns 
 ### [Python from the very beginning](beginners.md)
 
 For the benefit of anyone who has never coded using Python but would like to try we did three sessions introducing the basics of Python.
+
+
+### [Traffic Lights for Scratch](traffic_lights.md)
+
+Code two sets of traffic lights to control a junction using Scratch messages. Add a Pelican crossing for pedestrians!
+
+
+### [Space Race for Python ](space_race.md)
+
+Build a game similar to an arcade game called Space Race. The player has to move a rocket from the start to the end without getting hit by a asteroids.
