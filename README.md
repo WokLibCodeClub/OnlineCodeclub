@@ -56,4 +56,4 @@ Code two sets of traffic lights to control a junction using Scratch messages. Ad
 
 ### [Space Race for Python ](space_race.md)
 
-Build a game similar to an arcade game called Space Race. The player has to move a rocket from the start to the end without getting hit by a asteroids.
+Build a game similar to an arcade game called Space Race. The player has to move a rocket from the start to the end without getting hit by asteroids.
