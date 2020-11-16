@@ -12,12 +12,8 @@ Here is the link to the Scratch starter project:
 
 ### <ins>Links to summaries of the online sessions:</ins>
 
-Video summary of first session, 7 November 2020:
+Video summary of first session, 7 November 2020:  [https://youtu.be/O_gISaiaM9A](https://youtu.be/O_gISaiaM9A)
 
-[https://youtu.be/O_gISaiaM9A](https://youtu.be/O_gISaiaM9A)
-
-pdf document with summary of code for first session:
-
-[Traffic Light Code #1](https://github.com/WokLibCodeClub/OnlineCodeclub/blob/master/CodeClub_Scratch_Traffic_Light_Code_%231.pdf)
+pdf document with summary of code for first session:  [Traffic Light Code #1](https://github.com/WokLibCodeClub/OnlineCodeclub/blob/master/CodeClub_Scratch_Traffic_Light_Code_%231.pdf)
 
 [Back to index](README.md)
