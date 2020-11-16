@@ -1,6 +1,6 @@
 # Space Race for Python
 
-This is a Python game where the player controls a rocket (actually a turtle object) which has to get from the bottom of the screen to the top without being hit by asteroids, which come across the screen from the left and from the right.
+This is a Python game where the player controls a rocket (actually a turtle object) which has to get from the bottom of the screen to the top without being hit by asteroids (more turtle objects), which come across the screen from the left and from the right.
 
 ![alt text](spaceracedemo.gif "Demo of Space Race")
 
