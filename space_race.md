@@ -6,7 +6,7 @@ This is a Python game where the player controls a rocket (actually a turtle obje
 
 This game teaches some fundamental Python concepts and some elements of games development. By the end of the project, you will have created the rocket, the asteroids, the collision logic and the surrounding game play.
 
-We did this project across two sessions in November 2020.
+We did this project across three sessions in November and December 2020.
 
 The instructions for building the game can be found [here](https://github.com/WokLibCodeClub/SpaceRace).
 
