@@ -2,7 +2,9 @@
 
 We use the Scratch system of broadcasting messages to control the lights on two sets of traffic lights, which control the traffic in two directions at a crossroads. When one set of lights shows green what colour should the other show?
 
-We first have to build the correct sequence of lights for one set of traffic lights.
+We first have to build the correct sequence of lights for one set of traffic lights, then add the controls for the second set, so that the traffic is safely controlled in both directions.
+
+Finally we add the code for a Puffin crossing to allow pedestrians to cross when all the traffic is stopped.
 
 ![alt text](traffic_lights.png "Traffic Lights starter")
 
