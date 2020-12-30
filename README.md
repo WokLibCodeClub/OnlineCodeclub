@@ -51,7 +51,7 @@ For the benefit of anyone who has never coded using Python but would like to try
 
 ### [Traffic Lights for Scratch](traffic_lights.md)
 
-Code two sets of traffic lights to control a junction using Scratch messages. Add a Pelican crossing for pedestrians!
+Code two sets of traffic lights to control a junction using Scratch messages. Add a Puffin crossing for pedestrians!
 
 
 ### [Space Race for Python ](space_race.md)
