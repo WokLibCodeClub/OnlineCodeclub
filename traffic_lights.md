@@ -20,7 +20,7 @@ Video summary of first session, 7 November 2020:  [https://youtu.be/O_gISaiaM9A]
 
 pdf document with summary of code for first session:  [Traffic Light Code #1](https://github.com/WokLibCodeClub/OnlineCodeclub/blob/master/CodeClub_Scratch_Traffic_Light_Code_%231.pdf)
 
-Video summary of second session, 14 November 2020:  [https://youtu.be/-PU2A6Q7RiY](https://youtu.be/-PU2A6Q7RiY)
+Video summary of second session, 21 November 2020:  [https://youtu.be/-PU2A6Q7RiY](https://youtu.be/-PU2A6Q7RiY)
 
 Video summary of third session, 5 December 2020:  [https://youtu.be/6dK01ZASSHY](https://youtu.be/6dK01ZASSHY)
 
