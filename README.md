@@ -61,4 +61,4 @@ Build a game similar to an arcade game called Space Race. The player has to move
 
 ### [Dice Rolling for Scratch ](dice_rolling.md)
 
-.....
+Use Scratch to code two rolling dice. 
