@@ -14,7 +14,7 @@ Video summary of first session, 5 September 2020:
 [https://youtu.be/zy49nAL1RnQ](https://youtu.be/zy49nAL1RnQ)
 
 pdf document with summary of first session:
-[PenPattern_05Sept.pdf](https://drive.google.com/file/d/1BAl98xUovoHeE2gHMST4hHZptOVcWt3k/view?usp=sharing)
+[PenPattern_05Sept.pdf](PenPattern_05Sept.pdf)
 
 Video summary of second and final session, 19 September 2020:
 [https://youtu.be/28YAND7Z0_s](https://youtu.be/28YAND7Z0_s)
