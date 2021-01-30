@@ -19,6 +19,7 @@ This session covered the \<div> and \<span> elements used to group other element
 trinket links:
 
 [https://trinket.io/html/ca53d1609c](https://trinket.io/html/ca53d1609c)
+
 [https://trinket.io/html/1f81179cbd](https://trinket.io/html/1f81179cbd)
 
 [Back to index](README.md)
