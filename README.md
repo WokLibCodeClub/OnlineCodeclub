@@ -8,6 +8,9 @@ For the Scratch projects you should have a Scratch account and be logged in befo
 
 The Python projects have all been built up on [trinket.io](https://trinket.io). To make the most of these projects you should have a trinket account, and be logged in before watching the videos.
 
+### If you are struggling to read the Python code on the videos
+
+Make sure you have Youtube set to the best possible quality. Put your mouse inside the video window, look at the Transport bar along the bottom edge and find the cog icon labelled Settings. Click on this and then on the word Quality. Choose the highest number available - for most of these videos it will be 720p or 1080p. If you expand the video to Full Screen you should be able to read the Python code.
 
 ### [Breakout for Scratch](breakout.md)
 
