@@ -67,7 +67,7 @@ Build a game similar to an arcade game called Space Race. The player has to move
 Use Scratch to code two rolling dice. 
 
 
-## Chris animates her name in Scratch
+### Chris animates her name in Scratch
 
 Chris shows you how she made her name come to life in Scratch.
 
