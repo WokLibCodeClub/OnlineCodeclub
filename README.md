@@ -67,9 +67,6 @@ Build a game similar to an arcade game called Space Race. The player has to move
 Use Scratch to code two rolling dice. 
 
 
-### Chris animates her name in Scratch
+### [Animate a Name in Scratch](animate_a_name.md)
 
-Chris shows you how she made her name come to life in Scratch.
-
-Video summary of session, 6 February 2021:  [https://youtu.be/4muH_FMUAm0](https://youtu.be/4muH_FMUAm0)
-
+Use Scratch to make a name come to life.
