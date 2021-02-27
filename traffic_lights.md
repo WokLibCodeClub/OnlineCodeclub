@@ -14,7 +14,7 @@ Here is the link to the Scratch starter project:
 
 [https://scratch.mit.edu/projects/444744604](https://scratch.mit.edu/projects/444744604)
 
-### <ins>Links to summaries of the online sessions:</ins>
+## <ins>Links to summaries of the online sessions:</ins>
 
 Video summary of first session, 7 November 2020:  [https://youtu.be/O_gISaiaM9A](https://youtu.be/O_gISaiaM9A)
 
