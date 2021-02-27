@@ -8,11 +8,9 @@ For the Scratch projects you should have a Scratch account and be logged in befo
 
 The Python projects have all been built up on [trinket.io](https://trinket.io). To make the most of these projects you should have a trinket account, and be logged in before watching the videos.
 
-
 ### [Breakout for Scratch](breakout.md)
 
 The classic 1970s arcade game in a simplified version for Scratch.
-
 
 ### [Turtle-it for Python](turtleit.md)
 
