@@ -14,13 +14,13 @@ There is a starter trinket for this called simulator_starter. Log in to your tri
 
 During the video we will also look at three other short trinket projects. The links for these trinkets are
 
-First small trinket - explore turtle headings
+First small trinket - explore turtle headings: 
 [https://trinket.io/python/3c04c97696](https://trinket.io/python/3c04c97696)
 
-Second small trinket - make turtle bounce off top and bottom walls
+Second small trinket - make turtle bounce off top and bottom walls: 
 [https://trinket.io/python/83141c356d](https://trinket.io/python/83141c356d)
 
-Third small trinket - make turtle bounce off left and right walls
+Third small trinket - make turtle bounce off left and right walls: 
 [https://trinket.io/python/3a12edb60e](https://trinket.io/python/3a12edb60e)
 
 ### Video for second session - Saturday 6 February 2021
