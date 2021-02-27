@@ -60,3 +60,8 @@ Build a game similar to an arcade game called Space Race. The player has to move
 ### [Dice Rolling for Scratch ](dice_rolling.md)
 
 Use Scratch to code two rolling dice. 
+
+
+### [Animate a Name in Scratch](animate_a_name.md)
+
+Use Scratch to make a name come to life.
