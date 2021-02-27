@@ -10,7 +10,7 @@ Here is a link to a demonstration of how the project runs:
 
 [https://scratch.mit.edu/projects/404139051/](https://scratch.mit.edu/projects/404139051/)
 
-## Links to summaries of the online sessions:
+## Links to summaries of the online sessions
 
 First session, 6 June 2020 (pdf document):
 [phrasebook_summary_20200606.pdf](phrasebook_summary_20200606.pdf)
