@@ -31,7 +31,7 @@ Third small trinket - make turtle bounce off left and right walls:
 
 [https://youtu.be/XSGJYJGor5w](https://youtu.be/XSGJYJGor5w)
 
-Link to the trinket project for explaining how to write text to a file :
+Link to the trinket project for explaining how to write a list to a file without the square brackets:
 
 [https://trinket.io/python/b2a4eca487](https://trinket.io/python/b2a4eca487)
 
