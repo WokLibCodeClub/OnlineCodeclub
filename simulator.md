@@ -33,7 +33,7 @@ Third small trinket - make turtle bounce off left and right walls:
 
 Link to the trinket project for explaining how to write text to a file :
 
-[https://trinket.io/python/b2a4eca487]("https://trinket.io/python/b2a4eca487")
+[https://trinket.io/python/b2a4eca487](https://trinket.io/python/b2a4eca487)
 
 ### Bonus video
 
