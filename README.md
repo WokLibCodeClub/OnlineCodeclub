@@ -55,3 +55,7 @@ Use Scratch to code two rolling dice.
 ### [Animate a Name in Scratch](animate_a_name.md)
 
 Use Scratch to make a name come to life.
+
+### [Python Simulator](simulator.md)
+
+We use Python to code a *simulator*. To find out what kind of simulator you'll have to try the project!
