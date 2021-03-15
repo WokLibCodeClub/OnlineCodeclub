@@ -63,3 +63,7 @@ We use Python to code a *simulator*. To find out what kind of simulator you'll h
 ### [Serene Scene](serene_scene.md)
 
 We use Scratch to create a serene scene of a woodland, which you can look at, listen to, and relax with.  But maybe some bits are a little less relaxing than others!
+
+### [Butterfly Garden](butterfly_garden.md)
+
+We use Scratch to create a butterfly garden scene in which the butterflies fly in exactly the patterns that we tell them to.
