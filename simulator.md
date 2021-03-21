@@ -47,7 +47,7 @@ Link to the trinket project testing the random percent generator:
 
 ### Credit
 
-(This project was inspired by and is adapted from a Scratch project [https://scratch.mit.edu/projects/376656449](https://scratch.mit.edu/projects/376656449) by expert Scratch user [mres](https://scratch.mit.edu/users/mres/), for which we are grateful.)  
+(This project was inspired by and is adapted from a Scratch project [https://scratch.mit.edu/projects/376656449](https://scratch.mit.edu/projects/376656449) by expert Scratch user [mres](https://scratch.mit.edu/users/mres/) for which we are grateful.)  
 
 
 
