@@ -45,6 +45,8 @@ Link to the trinket project testing the random percent generator:
 
 [https://trinket.io/python/7b9da4dfac](https://trinket.io/python/7b9da4dfac)
 
+###Credit
+
 (This project was inspired by and is adapted from a Scratch project [https://scratch.mit.edu/projects/376656449](https://scratch.mit.edu/projects/376656449) by expert Scratch user [mres](https://scratch.mit.edu/users/mres/), for which we are grateful.)  
 
 
