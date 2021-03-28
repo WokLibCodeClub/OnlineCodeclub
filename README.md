@@ -67,3 +67,7 @@ We use Scratch to create a serene scene of a woodland, which you can look at, li
 ### [Butterfly Garden](butterfly_garden.md)
 
 We use Scratch to create a butterfly garden scene in which the butterflies fly in exactly the patterns that we tell them to.
+
+### [Easter Egg Catch](easter_egg_catch.md)
+
+We use Scratch to create a game in which a rabbit must catch as many falling eggs as as possible within a specified time.
