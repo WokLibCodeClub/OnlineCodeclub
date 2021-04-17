@@ -71,3 +71,7 @@ We use Scratch to create a butterfly garden scene in which the butterflies fly i
 ### [Easter Egg Catch](easter_egg_catch.md)
 
 We use Scratch to create a game in which a rabbit must catch as many falling eggs as as possible within a specified time.
+
+### [The Great Unfair Horse Race](unfair_horserace.md)
+
+In this project we use Python to make a dice rolling game but unfortunately it seems to have turned out not to be as fair as we hoped.
