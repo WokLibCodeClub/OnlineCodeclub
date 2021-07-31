@@ -8,15 +8,15 @@ Video summary of second session, 1 May 2021:  [https://youtu.be/vp1tZ2yVTdQ](htt
 
 The video makes references to some extra material:
 
-Google map showing location of Poilão island - (https://www.google.co.uk/maps/place/Poil%C3%A3o/@10.8761013,-15.7103348,13z/data=!4m5!3m4!1s0xee1abbe88f3d9a7:0x22be25ca9f6b5f0e!8m2!3d10.866667!4d-15.716667)
+* Google map showing location of Poilão island - [Map](https://www.google.co.uk/maps/place/Poil%C3%A3o/@10.8761013,-15.7103348,13z/data=!4m5!3m4!1s0xee1abbe88f3d9a7:0x22be25ca9f6b5f0e!8m2!3d10.866667!4d-15.716667)
 
-Turtle moving on beach - (https://www.facebook.com/watch/?v=625768524143150)
+* Turtle moving on beach - [https://www.facebook.com/watch/?v=625768524143150](https://www.facebook.com/watch/?v=625768524143150)
 
-Photo showing tracking device on turtle - (https://www.conserveturtles.org/sea-turtle-tracking-works/)
+* Photo showing tracking device on turtle - [https://www.conserveturtles.org/sea-turtle-tracking-works](https://www.conserveturtles.org/sea-turtle-tracking-works/)
 
-BBC video showing Green Turtle laying eggs - (https://www.youtube.com/watch?v=zGaYOf3lOuk)
+* BBC video showing Green Turtle laying eggs - [https://www.youtube.com/watch?v=zGaYOf3lOuk](https://www.youtube.com/watch?v=zGaYOf3lOuk)
 
-Background information on the work being done with turtles on Poilão - (https://mava-foundation.org/news-poilao-a-sacred-island-for-sea-turles/)
+* Background information on the work being done with turtles on Poilão - [https://mava-foundation.org/news-poilao-a-sacred-island-for-sea-turles/](https://mava-foundation.org/news-poilao-a-sacred-island-for-sea-turles/)
 
 
 Here are the links to some of the real sea turtle data files.  Watch the second video for details on how to save them to your computer & load into the Scratch coordinate lists.
