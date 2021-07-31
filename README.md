@@ -76,6 +76,11 @@ We use Scratch to create a game in which a rabbit must catch as many falling egg
 
 In this project we use Python to make a dice rolling game but unfortunately it seems to have turned out not to be as fair as we hoped.
 
+
+### [Bounce Mania](bounce_mania.md)
+
+We use Scratch to create a game in which the player will watch the screen gradually fill with colourful ball sprites that get gradually larger.  A quick hand will be needed to move the mouse away from the balls as they float around the screen, otherwise it's Game Over!
+
 ### [Relax & Stretch](relax_and_stretch.md)
 
 We use Scratch to demonstrate some mindful, relaxing exercises that you can carry out while sitting down.
