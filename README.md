@@ -60,15 +60,15 @@ Use Scratch to make a name come to life.
 
 We use Python to code a *simulator*. To find out what kind of simulator you'll have to try the project!
 
-### [Serene Scene](serene_scene.md)
+### [Serene Scene for Scratch](serene_scene.md)
 
 We use Scratch to create a serene scene of a woodland, which you can look at, listen to, and relax with.  But maybe some bits are a little less relaxing than others!
 
-### [Butterfly Garden](butterfly_garden.md)
+### [Butterfly Garden for Scratch](butterfly_garden.md)
 
 We use Scratch to create a butterfly garden scene in which the butterflies fly in exactly the patterns that we tell them to.
 
-### [Easter Egg Catch](easter_egg_catch.md)
+### [Easter Egg Catch for Scratch](easter_egg_catch.md)
 
 We use Scratch to create a game in which a rabbit must catch as many falling eggs as as possible within a specified time.
 
@@ -81,10 +81,10 @@ In this project we use Python to make a dice rolling game but unfortunately it s
 We will use the Pen extension blocks and x and y coordinates in Scratch to draw the locations visited by green sea turtles during their nesting time, based on real data obtained from tags attached to the turtles.   We will also be making use of lists to store and import data.
 
 
-### [Bounce Mania](bounce_mania.md)
+### [Bounce Mania for Scratch](bounce_mania.md)
 
 We use Scratch to create a game in which the player will watch the screen gradually fill with colourful ball sprites that get gradually larger.  A quick hand will be needed to move the mouse away from the balls as they float around the screen, otherwise it's Game Over!
 
-### [Relax & Stretch](relax_and_stretch.md)
+### [Relax & Stretch for Scratch](relax_and_stretch.md)
 
 We use Scratch to demonstrate some mindful, relaxing exercises that you can carry out while sitting down.
