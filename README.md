@@ -76,6 +76,10 @@ We use Scratch to create a game in which a rabbit must catch as many falling egg
 
 In this project we use Python to make a dice rolling game but unfortunately it seems to have turned out not to be as fair as we hoped.
 
+### [Turtle Tracker for Scratch](turtle_tracker.md)
+
+We will use the Pen extension blocks and x and y coordinates in Scratch to draw the locations visited by green sea turtles during their nesting time, based on real data obtained from tags attached to the turtles.   We will also be making use of lists to store and import data.
+
 
 ### [Bounce Mania](bounce_mania.md)
 
