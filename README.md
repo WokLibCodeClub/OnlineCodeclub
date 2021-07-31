@@ -75,3 +75,7 @@ We use Scratch to create a game in which a rabbit must catch as many falling egg
 ### [The Great Unfair Horse Race](unfair_horserace.md)
 
 In this project we use Python to make a dice rolling game but unfortunately it seems to have turned out not to be as fair as we hoped.
+
+### [Relax & Stretch](relax_and_stretch.md)
+
+We use Scratch to demonstrate some mindful, relaxing exercises that you can carry out while sitting down.
