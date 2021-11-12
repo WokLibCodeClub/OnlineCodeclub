@@ -91,3 +91,7 @@ We use Scratch to create a game in which the player will watch the screen gradua
 ### [Relax & Stretch for Scratch](relax_and_stretch.md)
 
 We use Scratch to demonstrate some mindful, relaxing exercises that you can carry out while sitting down.
+
+### [Scratch Fireworks Display](fireworks.md)
+
+We use Scratch to create a fireworks display marking Guy Fawkes Night & Diwali.
