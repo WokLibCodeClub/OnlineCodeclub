@@ -28,7 +28,7 @@ To view this video you will need to download it - click on the button labelled D
 
 During the project we use some data about the planets in the solar system. You can get a copy of this at:
 
-[https://github.com/WokLibCodeClub/OnlineCodeclub/blob/master/Inner%20Solar%20System%20Planetary%20Data.png](Inner Solar System Planetary Data.png)
+[Inner Solar System Planetary Data.png](Inner%20Solar%20System%20Planetary%20Data.png)
 
 The webpage referred to in the video to experiment with creating colours is:
 
