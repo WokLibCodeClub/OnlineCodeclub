@@ -95,3 +95,11 @@ We use Scratch to demonstrate some mindful, relaxing exercises that you can carr
 ### [Scratch Fireworks Display](fireworks.md)
 
 We use Scratch to create a fireworks display marking Guy Fawkes Night & Diwali.
+
+### [Python Snowflake](snowflake.md)
+
+At Christmas 2021 we thought it would be nice to use Python turtles to draw a wintery snowflake pattern, although in the south of England it was actually one of the mildest Christmases on record.  Our project explores simple functions.
+
+### [Python Solar System model](planets.md)
+
+Across November 2021 and January 2022 (with a gap for a Christmassy project) we used Python to build a model of the inner planets in our Solar System, with Python turtles.
