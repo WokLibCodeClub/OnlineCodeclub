@@ -24,9 +24,11 @@ You can also find a little video file which shows what the final project might l
 
 [solar_system_demo.mp4](solar_system_demo.mp4)
 
+To view this video you will need to download it - click on the button labelled Download.
+
 During the project we use some data about the planets in the solar system. You can get a copy of this at:
 
-[Inner%20Solar%20System%20Planetary%20Data.png](Inner Solar System Planetary Data.png)
+[https://github.com/WokLibCodeClub/OnlineCodeclub/blob/master/Inner%20Solar%20System%20Planetary%20Data.png](Inner Solar System Planetary Data.png)
 
 The webpage referred to in the video to experiment with creating colours is:
 
