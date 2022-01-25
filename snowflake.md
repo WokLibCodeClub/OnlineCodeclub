@@ -6,7 +6,7 @@ There is no starter trinket for this project but the project is based on a Raspb
 
 [https://projects.raspberrypi.org/en/projects/turtle-snowflakes](https://projects.raspberrypi.org/en/projects/turtle-snowflakes)
 
-## Link to video summary of the online session - 4 December 2021
+### Link to video summary of the online session - 4 December 2021
 
 [https://youtu.be/zsCtgPeH1WY](https://youtu.be/zsCtgPeH1WY)
 
