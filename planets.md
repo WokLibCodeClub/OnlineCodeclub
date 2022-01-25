@@ -16,6 +16,8 @@ This is project where we use Python turtles to create an animated model of our s
 
 [https://youtu.be/2cz1_YSEnIk](https://youtu.be/2cz1_YSEnIk)
 
+You can find more information about these sessions in the Information boxes under the videos on Youtube.
+
 There is a starter trinket for this project called planets_starter and the link is:
 
 [https://trinket.io/python/3610a149e4](https://trinket.io/python/3610a149e4)
