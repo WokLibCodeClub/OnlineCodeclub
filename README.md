@@ -103,3 +103,9 @@ At Christmas 2021 we thought it would be nice to use Python turtles to draw a wi
 ### [Python Solar System model](planets.md)
 
 Across November 2021 and January 2022 (with a gap for a Christmassy project) we used Python to build a model of the inner planets in our Solar System, with Python turtles.
+
+### [Python Fractal Tree](tree.md)
+
+This project shows how you can draw surprisingly complicated shapes with just a few lines of code, using a strange type of function, called a recursive function, which calls itself.
+
+We explore the concept of Fractals, which are types of patterns which keep duplicating themselves at smaller and smaller scales. Fractals are found all around us in nature.
