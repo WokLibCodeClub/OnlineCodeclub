@@ -1,39 +1,25 @@
-# Python Solar System Model
+# Python Fractal Tree
 
-This is project where we use Python turtles to create an animated model of our solar system.
+This is project where we use a Python turtle to draw a complicated tree using just a few lines of code and a type of Python function which calls itself. An example of the sort of pattern we can make is shown here:
 
-## Links to video summaries of the online sessions
+<p align="center">
+  <img src="fractal_tree.png">
+</p>
 
-### Video for first session - Saturday 6 November 2021
+## Link to video summary of the online session
 
-[https://youtu.be/VQ77I6MYpZg](https://youtu.be/VQ77I6MYpZg)
+### Video for fractal tree session - Saturday 5 February 2022
 
-### Video for second session - Saturday 15 January 2022
+[https://youtu.be/xIYT7vukGd8](https://youtu.be/xIYT7vukGd8)
 
-[https://youtu.be/iTduc6pZ9wI](https://youtu.be/iTduc6pZ9wI)
+You can find more information about this session in the Information boxes under the video on Youtube.
 
-### Bonus video with extra code which we didn't have time for in the second session
+There is no starter trinket for this project, but if you want to see what the code looked like at the end of the video go to:
 
-[https://youtu.be/2cz1_YSEnIk](https://youtu.be/2cz1_YSEnIk)
+[https://trinket.io/python/1effec4d16](https://trinket.io/python/1effec4d16)
 
-You can find more information about these sessions in the Information boxes under the videos on Youtube.
+There is a pdf document showing a walk through of the code for a very simple version of the tree pattern. You can see it here:
 
-There is a starter trinket for this project called planets_starter and the link is:
-
-[https://trinket.io/python/3610a149e4](https://trinket.io/python/3610a149e4)
-
-You can also find a little video file which shows what the final project might look like. The link is:
-
-[solar_system_demo.mp4](solar_system_demo.mp4)
-
-To view this video you will need to download it - click on the button labelled Download.
-
-During the project we use some data about the planets in the solar system. You can get a copy of this at:
-
-[Inner Solar System Planetary Data.png](Inner%20Solar%20System%20Planetary%20Data.png)
-
-The webpage referred to in the video to experiment with creating colours is:
-
-[https://codepen.io/leemark/full/lpEHr](https://codepen.io/leemark/full/lpEHr)
+[Fractal_tree_walkthrough.pdf](Fractal_tree_walkthrough.pdf)
 
 [Back to index](README.md)
