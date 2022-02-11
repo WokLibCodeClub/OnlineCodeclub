@@ -22,8 +22,8 @@ There is a pdf document showing a walk through of the code for a very simple ver
 
 [Fractal_tree_walkthrough.pdf](Fractal_tree_walkthrough.pdf)
 
-It is best to view this document one whole page at a time without any scrolling between pages, so you will probably need to download it to your computer.
+* It is best to view this document one whole page at a time without any scrolling between pages, so you will probably need to download it to your computer.
 
-If you are viewing it in Microsoft Edge (which is the default for Windows 10) then navigate through the pages using the RIGHT and LEFT ARROW keys - this will jump to the next page without scrolling.
+* If you are viewing it in Microsoft Edge (which is the default for Windows 10) then navigate through the pages using the RIGHT and LEFT ARROW keys - this will jump to the next page without scrolling.
 
 [Back to index](README.md)
