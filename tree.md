@@ -6,6 +6,7 @@ This is project where we use a Python turtle to draw a complicated tree using ju
   <img src="fractal_tree.png">
 </p>
 
+---
 ## Link to video summary of the online session
 
 ### Video for fractal tree session - Saturday 5 February 2022
@@ -14,10 +15,12 @@ This is project where we use a Python turtle to draw a complicated tree using ju
 
 You can find more information about this session in the Information box under the video on Youtube.
 
+---
 There is no starter trinket for this project, but if you want to see what the code looked like at the end of the video go to:
 
 [https://trinket.io/python/1effec4d16](https://trinket.io/python/1effec4d16)
 
+---
 There is a pdf document showing a walk through of the code for a very simple version of the tree pattern. You can see it here:
 
 [Fractal_tree_walkthrough.pdf](Fractal_tree_walkthrough.pdf)
@@ -26,4 +29,5 @@ There is a pdf document showing a walk through of the code for a very simple ver
 
 * If you are viewing it in Microsoft Edge (which is the default for Windows 10) then navigate through the pages using the RIGHT and LEFT ARROW keys - this will jump to the next page without scrolling.
 
+---
 [Back to index](README.md)
