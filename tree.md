@@ -12,7 +12,7 @@ This is project where we use a Python turtle to draw a complicated tree using ju
 
 [https://youtu.be/xIYT7vukGd8](https://youtu.be/xIYT7vukGd8)
 
-You can find more information about this session in the Information boxes under the video on Youtube.
+You can find more information about this session in the Information box under the video on Youtube.
 
 There is no starter trinket for this project, but if you want to see what the code looked like at the end of the video go to:
 
