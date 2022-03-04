@@ -113,3 +113,8 @@ Across November 2021 and January 2022 (with a gap for a Christmassy project) we 
 This project shows how you can draw surprisingly complicated shapes with just a few lines of code, using a strange type of function, called a recursive function, which calls itself.
 
 We explore the concept of Fractals, which are types of patterns which keep duplicating themselves at smaller and smaller scales. Fractals are found all around us in nature.
+
+### [Electricity Generation for Scratch](electricity_gen.md)
+
+We use Scratch to plot bar charts of data showing various resources that have been used to generate electrcity in the UK for the years 1985, 2000, 2010 & 2020.   This enables easy comparisons and shows how renewables are gradually replacing coal & oil.
+
