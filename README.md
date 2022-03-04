@@ -96,6 +96,10 @@ We use Scratch to demonstrate some mindful, relaxing exercises that you can carr
 
 We use Scratch to create a fireworks display marking Guy Fawkes Night & Diwali.
 
+### [Jazzy Jumpers](jazzy_jumpers.md)
+
+'Tis the season when people bring out their fancy jumpers.   We create a memory game in Scratch involving jazzy jumpers.
+
 ### [Python Snowflake](snowflake.md)
 
 At Christmas 2021 we thought it would be nice to use Python turtles to draw a wintery snowflake pattern, although in the south of England it was actually one of the mildest Christmases on record.  Our project explores simple functions.
