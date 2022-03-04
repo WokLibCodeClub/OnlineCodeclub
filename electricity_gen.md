@@ -17,8 +17,8 @@ We use Scratch to plot bar charts of data showing various resources that have be
 
 ### Starter project: [https://scratch.mit.edu/projects/626584181](https://scratch.mit.edu/projects/626584181)
 
-### Data used for bar graphs: [Electriciity Generation UK data.pdf](Electriciity Generation UK data.pdf)
+### Data used for bar graphs: [ElectriciityGenerationUK_data.pdf](ElectriciityGenerationUK_data.pdf)
 
-### Layout for bars on Scratch screen: [Electricity Generation layout.pdf](Electricity Generation layout.pdf)
+### Layout for bars on Scratch screen: [ElectricityGenerationLayout.pdf](ElectricityGenerationLayout.pdf)
 
 
