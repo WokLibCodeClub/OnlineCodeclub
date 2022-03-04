@@ -22,3 +22,4 @@ We use Scratch to plot bar charts of data showing various resources that have be
 ### Layout for bars on Scratch screen: [ElectricityGenerationLayout.pdf](ElectricityGenerationLayout.pdf)
 
 
+### More data - if you are interested in adding some additional bars for other years here is the spreadsheet file of our original data used for this project: [ElectricityGenerationUK_data_raw.xlsx](ElectricityGenerationUK_data_raw.xlsx)
