@@ -96,7 +96,7 @@ We use Scratch to demonstrate some mindful, relaxing exercises that you can carr
 
 We use Scratch to create a fireworks display marking Guy Fawkes Night & Diwali.
 
-### [Jazzy Jumpers](jazzy_jumpers.md)
+### [Jazzy Jumpers for Scratch](jazzy_jumpers.md)
 
 'Tis the season when people bring out their fancy jumpers.   We create a memory game in Scratch involving jazzy jumpers.
 
@@ -118,3 +118,6 @@ We explore the concept of Fractals, which are types of patterns which keep dupli
 
 We use Scratch to plot bar charts of data showing various resources that have been used to generate electrcity in the UK for the years 1985, 2000, 2010 & 2020.   This enables easy comparisons and shows how renewables are gradually replacing coal & oil.
 
+### [Find the Bug for Scratch](bug.md)
+
+We use Scratch to create a game in which the player must find a hidden bug on each of the levels.  'Bug' in this case refers to a sprite and not an error in the program!   The game has start and end backdrops and a timer to show how quickly the player finds all the bugs.
