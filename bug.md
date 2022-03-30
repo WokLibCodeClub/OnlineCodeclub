@@ -4,6 +4,8 @@ In this project, you will create a game in which you have to find a hidden bug o
 
 How well are the bugs hidden? You will get to add your own levels and make it as easy or difficult as you like.
 
+---
+
 ### Video for session - Saturday 5th March 2022
 
 [https://youtu.be/jBoE88xKXPU](https://youtu.be/jBoE88xKXPU)
