@@ -6,6 +6,9 @@ This is a project where we use a Python turtle to draw a completely computer-gen
   <img src="2d_landscape.png">
 </p>
 
+Part of the code involves loops with the  Python `range()` function with *three* parameters and this function is explored in the second video.
+
+---
 ## Links to video summaries of the online sessions
 
 ### Video for first session - Saturday 5 March 2022
@@ -16,21 +19,15 @@ This is a project where we use a Python turtle to draw a completely computer-gen
 
 [https://youtu.be/NoV1z_tVOPA](https://youtu.be/NoV1z_tVOPA)
 
-You can find more information about this session in the Information box under the video on Youtube.
+You can find more information about these sessions and useful links in the Information boxes under the videos on Youtube.
 
 ---
-There is no starter trinket for this project, but if you want to see what the code looked like at the end of the video go to:
+There is no starter trinket for this project, but if you want to see what the code looked like at the end of the first video go to:
 
-[https://trinket.io/python/1effec4d16](https://trinket.io/python/1effec4d16)
+[https://trinket.io/python/cf34efbfe0](https://trinket.io/python/cf34efbfe0)
 
----
-There is a pdf document showing a walk through of the code for a very simple version of the tree pattern. You can see it here:
+or for the second video go to:
 
-[Fractal_tree_walkthrough.pdf](Fractal_tree_walkthrough.pdf)
-
-* It is best to view this document one whole page at a time without any scrolling between pages, so you will probably need to download it to your computer.
-
-* If you are viewing it in Microsoft Edge (which is the default for Windows 10) then navigate through the pages using the RIGHT and LEFT ARROW keys - this will jump to the next page without scrolling.
-
+[https://trinket.io/python/3c83b6b6ec](https://trinket.io/python/3c83b6b6ec)
 ---
 [Back to index](README.md)
