@@ -121,3 +121,9 @@ We use Scratch to plot bar charts of data showing various resources that have be
 ### [Find the Bug for Scratch](bug.md)
 
 We use Scratch to create a game in which the player must find a hidden bug on each of the levels.  'Bug' in this case refers to a sprite and not an error in the program!   The game has start and end backdrops and a timer to show how quickly the player finds all the bugs.
+
+### [Python Fractal Landscape](2d_landscape.md)
+
+This project shows how you can draw surprisingly complicated shapes with just a few lines of code, using a strange type of function, called a recursive function, which calls itself.
+
+We explore the concept of Fractals, which are types of patterns which keep duplicating themselves at smaller and smaller scales. Fractals are found all around us in nature.
