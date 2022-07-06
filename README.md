@@ -124,6 +124,4 @@ We use Scratch to create a game in which the player must find a hidden bug on ea
 
 ### [Python Fractal Landscape](2d_landscape.md)
 
-This project shows how you can draw surprisingly complicated shapes with just a few lines of code, using a strange type of function, called a recursive function, which calls itself.
-
-We explore the concept of Fractals, which are types of patterns which keep duplicating themselves at smaller and smaller scales. Fractals are found all around us in nature.
+This project continues our exploration of Fractals, and uses the concept to create a realistic 2D landscape.
