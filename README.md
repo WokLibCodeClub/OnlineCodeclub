@@ -112,7 +112,7 @@ Across November 2021 and January 2022 (with a gap for a Christmassy project) we 
 
 ### [Python Fractal Tree](tree.md)
 
-This project shows how you can draw surprisingly complicated shapes with just a few lines of code, using a strange type of function, called a recursive function, which calls itself.
+This project shows how you can draw surprisingly complicated shapes with just a few lines of code, using a weird type of function (called a "recursive function") which calls itself.
 
 We explore the concept of Fractals, which are types of patterns which keep duplicating themselves at smaller and smaller scales. Fractals are found all around us in nature.
 
