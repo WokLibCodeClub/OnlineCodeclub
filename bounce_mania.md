@@ -1,6 +1,6 @@
 ## Bounce Mania for Scratch
 
-We use Scratch to create a agme in which the player will watch the screen gradually fill with colourful ball sprites that get gradually larger.  A quick hand will be needed to move the mouse away from the balls as they float around the screen, otherwise it's Game Over!.
+We use Scratch to create a game in which the player will watch the screen gradually fill with colourful ball sprites that get gradually larger.  A quick hand will be needed to move the mouse away from the balls as they float around the screen, otherwise it's Game Over!.
 
 The project is split over two sessions.
 
