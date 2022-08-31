@@ -2,7 +2,9 @@
 
 ## Video summaries of Code Club sessions held online during Coronavirus restrictions
 
-These are the projects we have developed in our online sessions. Click the links to get details of all the summary videos or supporting documents:
+These are the projects we developed in our online sessions between April 2020 and July 2022 while we were unable to hold in person sessions in the Wokingham Library. 
+
+Click the links below to get more details of these projects, including links to the summary videos and supporting documents:
 
 For the Scratch projects you should have a Scratch account and be logged in before watching the videos.
 
