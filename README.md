@@ -134,4 +134,4 @@ This is a project where we use a Python library called processing which we haven
 
 ### [Python processing library to generate and move shapes](shapes.md)
 
-This project continues our exploration of the Python graphics library called processing. We use `processing` to generate shapes on the screen and then write code to move them around using various keyboard keys.
+This project continues our exploration of the Python graphics library called ```processing```. We use `processing` to generate shapes on the screen and then write code to move them around using various keyboard keys.
