@@ -130,8 +130,8 @@ This project continues our exploration of Fractals, and uses the concept to crea
 
 ### [Python processing library to draw flags](flags.md)
 
-This is a project where we use a Python library called processing which we haven't used before in our projects. This is a library of graphics functions which allows many of the same processes as the turtle library but has many more possibilities. One of these is the ability to edit graphics images, like digital photos, and even create images. This project is about using Python code to create image files of various countries' flags.
+This is a project where we use a Python library called `processing` which we haven't used before in our projects. This is a library of graphics functions which allows many of the same processes as the turtle library but has many more possibilities. One of these is the ability to edit graphics images, like digital photos, and even create images. This project is about using Python code to create image files of various countries' flags.
 
 ### [Python processing library to generate and move shapes](shapes.md)
 
-This project continues our exploration of the Python graphics library called ```processing```. We use `processing` to generate shapes on the screen and then write code to move them around using various keyboard keys.
+This project continues our exploration of the Python graphics library called `processing`. We use `processing` to generate shapes on the screen and then write code to move them around using various keyboard keys.
