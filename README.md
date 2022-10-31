@@ -42,6 +42,10 @@ This is a Scratch drawing programme which draws exciting and colourful patterns 
 
 For the benefit of anyone who has never coded using Python but would like to try we did three sessions introducing the basics of Python.
 
+### [Hangman for Python](hangman.md)
+
+While we ran sessions introducing Python for beginner coders our more experienced coders worked on developing a version of the popular word game Hangman.
+
 ### [Traffic Lights for Scratch](traffic_lights.md)
 
 Code two sets of traffic lights to control a junction using Scratch messages. Add a Puffin crossing for pedestrians!
