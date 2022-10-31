@@ -6,7 +6,7 @@ There was no session video for this project - instead you should refer to the re
 
 ## Link to repository for Hangman
 
-[Hangman](../Hangman)
+[Hangman](../../Hangman)
 
 ---
 [Back to index](README.md)
