@@ -1,4 +1,4 @@
-# The Great Unfair Horse Race
+# The Great Unfair Horse Race for Python
 
 This is a Python dice rolling game.
 
