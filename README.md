@@ -82,7 +82,7 @@ We use Scratch to create a game in which a rabbit must catch as many falling egg
 
 In this project we use Python to make a dice rolling game but unfortunately it seems to have turned out not to be as fair as we hoped.
 
-### [Simple Role Play game](role_play.md)
+### [Simple Role Play game for Python](role_play.md)
 
 We made up a project to see how Python Dictionaries worked, by creating a simple role play game. Somehow it ballooned and kept getting longer and longer and more and more complicated. I hope you enjoy it!
 
