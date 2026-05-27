@@ -2,10 +2,7 @@
 
 In this game two players take turns to remove matches from a pile. The player who takes the last match is the loser. The matches are all Python turtles. This project explores Python lists and some of the things we can do with lists.
 
-Here is the link to the trinket starter project for this game. To follow the videos and build up the code log in to trinket then go to this link and Remix the project.
-[https://trinket.io/python/c05495155f](https://trinket.io/python/c05495155f)
-
-The youtube videos show the building up of this project using the (now no longer available) trinket online Python editor. To make this project you should use your own Python editor. First, make a new folder to hold all the project files, then make a new .py file and copy and paste in the starter code which is here. You will also need two image files. Click on this link then locate the download button in the top right corner (it will give a tool tip "Download raw file" if you hover your mouse over it). Click on the download button and open the zip file on your computer and extract the two image files into your project folder. You can now follow the video instructions but ignore any references to using the trinket website.
+The youtube videos show the building up of this project using the (now no longer available) ***trinket*** online Python editor. To make this project you should use your own Python editor. First, make a new folder to hold all the project files, then make a new .py file and copy and paste in the starter code which is [here](starter_code/nim21_starter.py). You will also need an image file. Click on [this link](images/match.gif) then locate the download button in the top right corner (it will give a tool tip "Download raw file" if you hover your mouse over it). Click on the download button and save the image file into your project folder. You can now follow the video instructions but ignore any references to using the trinket website.
 
 Since this project makes a lot of use of Python lists there is also a starter trinket project for experimenting with lists:
 [https://trinket.io/python/33bf438adb](https://trinket.io/python/33bf438adb)
