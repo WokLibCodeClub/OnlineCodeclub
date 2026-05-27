@@ -2,14 +2,7 @@
 
 In this game Python turtles jump up the screen from the bottom in an unpredictable manner. The player scores a point for every turtle which is squashed (by clicking on it) and loses a point for every turtle which gets to the top of the screen. The project involves writing a lot of Python functions and linking these together. It also explores how to use the turtle ```onclick()``` event to get turtles to respond when they are clicked.
 
-The youtube videos show the building up of this project using the (now no longer available) trinket online Python editor. To make this project you should use your own Python editor and copy in the starter code thish is [here](turtle_it_starter.py).
-
-Here is the link to the trinket starter project for this game:
-
-[https://trinket.io/python/2dc2b8f72f](https://trinket.io/python/2dc2b8f72f)
-
-To follow the videos and build up the code log in to trinket then go to this link and Remix the project. The instructions for doing this are also in the video for the first session.
-
+The youtube videos show the building up of this project using the (now no longer available) trinket online Python editor. To make this project you should use your own Python editor and copy in the starter code which is [here](../turtle_it_starter.py).
 
 #### Links to videos of the online sessions:
 
