@@ -2,9 +2,7 @@
 
 This is a project where we use Python  to code up a Simulator. You'll find out what type of simulator as you work through the project.
 
-There is a starter trinket for this called simulator_starter. Log in to your trinket account, then go to this link:
-
-[https://trinket.io/python/b8b674b335](https://trinket.io/python/b8b674b335)
+The youtube videos show the building up of this project using the (now no longer available) ***trinket*** online Python editor. To make this project you should use your own Python editor. First, make a new folder to hold all the project files, then make a new  file called simulator.py and copy and paste in the starter code which is [here](starter_code/simulator_starter.py). Then make a second new file in the same folder, called make_circle.py, and paste in the code which you can find [here](starter_code/make_circle.py).
 
 ## Links to video summaries of the online sessions
 
@@ -12,16 +10,16 @@ There is a starter trinket for this called simulator_starter. Log in to your tri
 
 [https://youtu.be/kbDCZxdktRE](https://youtu.be/kbDCZxdktRE)
 
-During the video we will also look at three other short trinket projects. The links for these trinkets are
+During the video we will also look at three other short Python programmes. The links for these are
 
-First small trinket - explore turtle headings:
-[https://trinket.io/python/3c04c97696](https://trinket.io/python/3c04c97696)
+First small programme - explore turtle headings:
+[turtle_heading.py](starter_code/turtle_heading.py)
 
-Second small trinket - make turtle bounce off top and bottom walls:
-[https://trinket.io/python/83141c356d](https://trinket.io/python/83141c356d)
+Second small programme - make turtle bounce off top and bottom walls:
+[turtle_bounce_up_down.py](starter_code/turtle_bounce_up_down.py)
 
-Third small trinket - make turtle bounce off left and right walls:
-[https://trinket.io/python/3a12edb60e](https://trinket.io/python/3a12edb60e)
+Third small programme - make turtle bounce off left and right walls:
+[turtle_bounce_sides.py](starter_code/turtle_bounce_sides.py)
 
 ### Video for second session - Saturday 6 February 2021
 
