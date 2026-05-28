@@ -39,9 +39,9 @@ This is an extra video for the project because we ran out of time in the final o
 
 [https://youtu.be/NOk4tWQPRCM](https://youtu.be/NOk4tWQPRCM)
 
-Link to the trinket project testing the random percent generator:
+Link to the code for testing the random percent generator:
 
-[https://trinket.io/python/7b9da4dfac](https://trinket.io/python/7b9da4dfac)
+[random_percent.py](starter_code/random_percent.py)
 
 ### Credit
 
