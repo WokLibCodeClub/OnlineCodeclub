@@ -2,9 +2,9 @@
 
 This is a Python dice rolling game.
 
-There is a starter trinket for this project called UnfairHorserace_starter. Log in to your trinket account, then go to this link:
+The youtube videos show the building up of this project using the (now no longer available) ***trinket*** online Python editor. To make this project you should use your own Python editor. First, make a new folder to hold all the project files, then make a new file called *unfair_horserace.py* and copy and paste in the starter code which is [here](starter_code/unfairhorserace_starter.py).
 
-[https://trinket.io/python/709010f605](https://trinket.io/python/709010f605)
+You should then be able to follow the instructions in the videos, but ignore any references to trinket.
 
 ## Links to video summaries of the online sessions
 
