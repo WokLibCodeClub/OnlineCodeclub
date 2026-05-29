@@ -4,6 +4,8 @@ This is a Python dice rolling game.
 
 The youtube videos show the building up of this project using the (now no longer available) ***trinket*** online Python editor. To make this project you should use your own Python editor. First, make a new folder to hold all the project files, then make a new file called *unfair_horserace.py* and copy and paste in the starter code which is [here](starter_code/unfairhorserace_starter.py).
 
+You will then need to download all the image files for this project which you can find [here](starter_code/unfairhorserace_images.zip). 
+
 You should then be able to follow the instructions in the videos, but ignore any references to trinket.
 
 ## Links to video summaries of the online sessions
