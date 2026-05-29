@@ -48,9 +48,15 @@ button.shape("button")
 button.color("gray")
 button.goto(-100, -218)
 button.stamp()
-button.goto(-100, -222)
-button.color("white")
-button.write("click to roll dice", font = ("arial", 11, "bold"), align = "center")
+button.fillcolor('')
+button.showturtle()
+
+button_text = Turtle()
+button_text.hideturtle()
+button_text.penup()
+button_text.goto(-100, -226)
+button_text.color("white")
+button_text.write("click to roll dice", font = ("arial", 11, "bold"), align = "center")
 
 # ======== Create dice turtles =========
 
