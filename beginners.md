@@ -2,8 +2,8 @@
 
 These sessions introduce Python for those who have never used it before. We cover how to get Python on your computer, and the most common instructions for simple coding. We finish up introducing Python turtles and making graphics.
 
-Here is a useful link to a webpage all about obtaining and using Python on your computer:
-[Applications for creating Python programs](https://projects.raspberrypi.org/en/projects/python-install-options)
+Here is a useful link to an old webpage all about obtaining and using Python on your computer:
+[Applications for creating Python programs](https://projects.raspberrypi.org/en/projects/python-install-options). (Some of the information on this page is out of date.)
 
 #### Links to summaries of the online sessions:
 
