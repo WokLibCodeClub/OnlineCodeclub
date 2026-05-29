@@ -10,6 +10,8 @@ We did this project across three sessions in November and December 2020.
 
 The instructions for building the game can be found [here](https://github.com/WokLibCodeClub/SpaceRace).
 
-The starter code for the game is here: [https://trinket.io/python/2a47e8809a](https://trinket.io/python/2a47e8809a)
+The starter code for the game is here: [space_race_starter.py](starter_code/space_race_starter.py)
+
+You will need to create a new file in your Python editor and copy and paste in the starter code.
 
 [Back to index](README.md)
