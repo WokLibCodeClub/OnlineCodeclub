@@ -4,6 +4,8 @@ This is a project where we use Python  to code up a Simulator. You'll find out w
 
 The youtube videos show the building up of this project using the (now no longer available) ***trinket*** online Python editor. To make this project you should use your own Python editor. First, make a new folder to hold all the project files, then make a new  file called simulator.py and copy and paste in the starter code which is [here](starter_code/simulator_starter.py). Then make a second new file in the same folder, called make_circle.py, and paste in the code which you can find [here](starter_code/make_circle.py).
 
+You can then follow the videos, but ignore any references to using trinket.
+
 ## Links to video summaries of the online sessions
 
 ### Video for first session - Saturday 16 January 2021
@@ -29,9 +31,9 @@ Third small programme - make turtle bounce off left and right walls:
 
 [https://youtu.be/XSGJYJGor5w](https://youtu.be/XSGJYJGor5w)
 
-Link to the trinket project for explaining how to write a list to a file without the square brackets:
+Link to the Python code for explaining how to write a list to a file without the square brackets:
 
-[https://trinket.io/python/b2a4eca487](https://trinket.io/python/b2a4eca487)
+[file_saving.py](starter_code/file_saving.py)
 
 ### Bonus video
 
