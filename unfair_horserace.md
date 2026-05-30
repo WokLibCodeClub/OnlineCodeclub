@@ -8,6 +8,8 @@ You will then need to download all the image files for this project which you ca
 
 You should then be able to follow the instructions in the videos, but ignore any references to trinket.
 
+(There may be one or two differences in the starter project compared to the videos.)
+
 ## Links to video summaries of the online sessions
 
 ### Video for first session - Saturday 6 March 2021
