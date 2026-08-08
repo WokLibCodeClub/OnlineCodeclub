@@ -24,7 +24,7 @@ At the end of the video we set some challenges to test your Python coding skills
 ---
 There is no starter trinket for the Flags project, but if you want to see what the code looked like at the end of the first video go to:
 
-[https://trinket.io/python/e1aa6a8357](https://trinket.io/python/e1aa6a8357)
+[https://trinket.strivemath.org/python/e1aa6a8357](https://trinket.strivemath.org/python/e1aa6a8357)
 
 ---
 [Back to index](README.md)
