@@ -18,11 +18,11 @@ Here is the code to paste in as the first line of the project:
 
 Here is the link to open a trinket Interactive Python Console:
 
-[https://trinket.io/console](https://trinket.io/console)
+[https://trinket.strivemath.org/console](https://trinket.strivemath.org/console)
 
 If you want to see exactly what the code looks like at the end of this video then go to:
 
-[https://trinket.io/python/3807265ee9](https://trinket.io/python/3807265ee9)
+[https://trinket.strivemath.org/python/3807265ee9](https://trinket.strivemath.org/python/3807265ee9)
 
 The picture of multiple snowflakes can be downloaded from:
 
