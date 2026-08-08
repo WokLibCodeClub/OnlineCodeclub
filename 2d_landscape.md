@@ -24,11 +24,11 @@ You can find more information about these sessions and useful links in the Infor
 ---
 There is no starter trinket for this project, but if you want to see what the code looked like at the end of the first video go to:
 
-[https://trinket.io/python/cf34efbfe0](https://trinket.io/python/cf34efbfe0)
+[https://trinket.strivemath.org/python/cf34efbfe0](https://trinket.strivemath.org/python/cf34efbfe0)
 
 or for the second video go to:
 
-[https://trinket.io/python/3c83b6b6ec](https://trinket.io/python/3c83b6b6ec)
+[https://trinket.strivemath.org/python/3c83b6b6ec](https://trinket.strivemath.org/python/3c83b6b6ec)
 
 ---
 [Back to index](README.md)
