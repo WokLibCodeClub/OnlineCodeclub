@@ -4,7 +4,7 @@ In this game Python turtles jump up the screen from the bottom in an unpredictab
 
 Here is the link to the trinket starter project for this game:
 
-[https://trinket.io/python/2dc2b8f72f](https://trinket.io/python/2dc2b8f72f)
+[https://trinket.strivemath.org/python/2dc2b8f72f](https://trinket.strivemath.org/python/2dc2b8f72f)
 
 To follow the videos and build up the code log in to trinket then go to this link and Remix the project. The instructions for doing this are also in the video for the first session.
 
