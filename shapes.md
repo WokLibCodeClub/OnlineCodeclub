@@ -19,7 +19,7 @@ The second video shows how to use keyboard keys to control the movement of shape
 ---
 There is a starter trinket for the second video. The link is:
 
-[https://trinket.io/python/83e8533344](https://trinket.io/python/83e8533344)
+[https://trinket.strivemath.org/python/83e8533344](https://trinket.strivemath.org/python/83e8533344)
 
 ---
 [Back to index](README.md)
