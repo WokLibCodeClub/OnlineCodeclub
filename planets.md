@@ -20,7 +20,7 @@ You can find more information about these sessions in the Information boxes unde
 
 There is a starter trinket for this project called planets_starter and the link is:
 
-[https://trinket.io/python/3610a149e4](https://trinket.io/python/3610a149e4)
+[https://trinket.strivemath.org/python/3610a149e4](https://trinket.strivemath.org/python/3610a149e4)
 
 You can also find a little video file which shows what the final project might look like. The link is:
 
