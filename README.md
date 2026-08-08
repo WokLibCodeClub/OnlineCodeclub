@@ -8,7 +8,7 @@ Click the links below to get more details of these projects, including links to 
 
 For the Scratch projects you should have a Scratch account and be logged in before watching the videos.
 
-The Python projects were all built up on trinket.io website, which is, unfortunately, no longer available. To make your own version of these projects you should use the replacement trinket platform hosted by Strive Math. You can make an account at this site by going to [trinket.strivemath.org/signup](https://trinket.strivemath.org/signup). Make sure you are logged in before watching the videos.
+The Python projects were all built up on the *trinket.io* website, which is, unfortunately, no longer available. To make your own version of these projects you should use the replacement trinket platform hosted by Strive Math. You can make an account at this site by going to [trinket.strivemath.org/signup](https://trinket.strivemath.org/signup). Make sure you are logged in before watching the videos.
 
 ### [Breakout for Scratch](breakout.md)
 
