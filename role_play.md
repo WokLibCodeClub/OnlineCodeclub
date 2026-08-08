@@ -12,7 +12,7 @@ In fact we had five whole sessions developing the code and still didn't have tim
 
 There is a starter trinket for this project called Simple_Adventure_starter but in the video we start exploring dictionaries using the trinket Python console. This is the link:
 
-[https://trinket.io/console](https://trinket.io/console)
+[https://trinket.strivemath.org/console](https://trinket.strivemath.org/console)
 
 We also mention a very sophisticated Adventure game called Zork, which was written in 1981 and has been re created for modern computers. You can play this game online yourself. The link is
 
@@ -20,7 +20,7 @@ We also mention a very sophisticated Adventure game called Zork, which was writt
 
 There is a starter trinket called Simple_Adventure_starter. Log in to your trinket account, then go to this link:
 
-[https://trinket.io/python/f1d1c7a5d2](https://trinket.io/python/f1d1c7a5d2)
+[https://trinket.strivemath.org/python/f1d1c7a5d2](https://trinket.strivemath.org/python/f1d1c7a5d2)
 
 ### Video for second session - Saturday 1 May 2021
 
