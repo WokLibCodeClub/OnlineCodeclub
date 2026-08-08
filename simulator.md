@@ -4,7 +4,7 @@ This is a project where we use Python  to code up a Simulator. You'll find out w
 
 There is a starter trinket for this called simulator_starter. Log in to your trinket account, then go to this link:
 
-[https://trinket.io/python/b8b674b335](https://trinket.io/python/b8b674b335)
+[https://trinket.strivemath.org/python/b8b674b335](https://trinket.strivemath.org/python/b8b674b335)
 
 ## Links to video summaries of the online sessions
 
@@ -15,13 +15,13 @@ There is a starter trinket for this called simulator_starter. Log in to your tri
 During the video we will also look at three other short trinket projects. The links for these trinkets are
 
 First small trinket - explore turtle headings:
-[https://trinket.io/python/3c04c97696](https://trinket.io/python/3c04c97696)
+[https://trinket.strivemath.org/python/3c04c97696](https://trinket.strivemath.org/python/3c04c97696)
 
 Second small trinket - make turtle bounce off top and bottom walls:
-[https://trinket.io/python/83141c356d](https://trinket.io/python/83141c356d)
+[https://trinket.strivemath.org/python/83141c356d](https://trinket.strivemath.org/python/83141c356d)
 
 Third small trinket - make turtle bounce off left and right walls:
-[https://trinket.io/python/3a12edb60e](https://trinket.io/python/3a12edb60e)
+[https://trinket.strivemath.org/python/3a12edb60e](https://trinket.strivemath.org/python/3a12edb60e)
 
 ### Video for second session - Saturday 6 February 2021
 
@@ -33,7 +33,7 @@ Third small trinket - make turtle bounce off left and right walls:
 
 Link to the trinket project for explaining how to write a list to a file without the square brackets:
 
-[https://trinket.io/python/b2a4eca487](https://trinket.io/python/b2a4eca487)
+[https://trinket.strivemath.org/python/b2a4eca487](https://trinket.strivemath.org/python/b2a4eca487)
 
 ### Bonus video
 
@@ -43,7 +43,7 @@ This is an extra video for the project because we ran out of time in the final o
 
 Link to the trinket project testing the random percent generator:
 
-[https://trinket.io/python/7b9da4dfac](https://trinket.io/python/7b9da4dfac)
+[https://trinket.strivemath.org/python/7b9da4dfac](https://trinket.strivemath.org/python/7b9da4dfac)
 
 ### Credit
 
