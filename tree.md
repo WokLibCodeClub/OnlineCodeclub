@@ -18,7 +18,7 @@ You can find more information about this session in the Information box under th
 ---
 There is no starter trinket for this project, but if you want to see what the code looked like at the end of the video go to:
 
-[https://trinket.io/python/1effec4d16](https://trinket.io/python/1effec4d16)
+[https://trinket.strivemath.org/python/1effec4d16](https://trinket.strivemath.org/python/1effec4d16)
 
 ---
 There is a pdf document showing a walk through of the code for a very simple version of the tree pattern. You can see it here:
