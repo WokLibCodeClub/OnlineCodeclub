@@ -8,7 +8,7 @@ When you are moving lines of code around to sort the programme out you will want
 
 Here is the link to the Trinket project with the jumbled code:
 
-[https://trinket.io/library/trinkets/2a2670f5b6](https://trinket.io/library/trinkets/2a2670f5b6)
+[https://trinket.strivemath.org/library/trinkets/2a2670f5b6](https://trinket.strivemath.org/library/trinkets/2a2670f5b6)
 
 Here is a link to a video which takes you through the unjumbling in stages, with lots of places to stop the video and see if you can work out the next step by yourself.
 
@@ -19,7 +19,7 @@ Good luck!
 
 If you would like to have a go an unjumbling another short Python programme here is another one you can try:
 
-[https://trinket.io/library/trinkets/0d6636a7c8](https://trinket.io/library/trinkets/0d6636a7c8)
+[https://trinket.strivemath.org/library/trinkets/0d6636a7c8](https://trinket.strivemath.org/library/trinkets/0d6636a7c8)
 
 
 [Back to index](README.md)
