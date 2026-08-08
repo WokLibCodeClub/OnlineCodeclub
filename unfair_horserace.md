@@ -4,7 +4,7 @@ This is a Python dice rolling game.
 
 There is a starter trinket for this project called UnfairHorserace_starter. Log in to your trinket account, then go to this link:
 
-[https://trinket.io/python/709010f605](https://trinket.io/python/709010f605)
+[https://trinket.strivemath.org/python/709010f605](https://trinket.strivemath.org/python/709010f605)
 
 ## Links to video summaries of the online sessions
 
