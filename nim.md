@@ -2,6 +2,7 @@
 
 In this game two players take turns to remove matches from a pile. The player who takes the last match is the loser. The matches are all Python turtles. This project explores Python lists and some of the things we can do with lists.
 
+There is a starter project which you can find at:
 [https://trinket.strivemath.org/python/c05495155f](https://trinket.strivemath.org/python/c05495155f)
 
 Since this project makes a lot of use of Python lists there is also a starter trinket project for experimenting with lists:
